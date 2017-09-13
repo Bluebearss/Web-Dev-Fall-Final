@@ -1,0 +1,69 @@
+GOT-ActAd, Fantasy
+TWD-Sci-Fi, ActAd, Drama, Apocalypse
+FTWD-Sci-Fi, ActAd, Drama, Apocalypse
+Z Nation-Sci-Fi, ActAd, Apocalypse
+Prison Break-Drama, ActAd, Crime, Thriller
+SOA-Drama, ActAd
+Burn Notice-Drama, ActAd
+100-Sci-Fi, Drama, ActAd, Apocalypse
+Friends-comedy
+Seinfield-comedy
+I love lucy- comedy
+White Collar-Crime, Drama
+Revolution-ActAd, Sci-Fi, Drama
+24-Drama, Thriller, ActAd
+Doctor Who-Drama, Sci-Fi
+Spongebob Squarepants-Cartoon, comedy
+South Park-Comedy, Cartoon
+Pokemon- ActAd, Cartoon, comedy, Drama
+American Dad-cartoon,comedy
+Family Guy-cartoon,comedy
+Cleveland Show- cartoon,comedy
+Once Upon a Time- Fantasy, Drama, ActAd, Mystery, Romance
+
+Added Shows
+
+Apocolypse:
+Jericho-Apocolypse,Action,Drama
+Survivors-Apocolypse
+Falling Skies-Apocolypse,Sci-Fi,Drama
+The Last Ship-Apocolypse
+Last Resort-ActAd,Drama, Apocolypse
+
+Cartoon:
+Spider-Man:The animated series-ActAd, Cartoon
+Naruto Shippuden-ActAd, Drama, Fantasy, Cartoon
+The Magic School Bus-ActAd,Comedy,Fantasy,Cartoon
+Futurama-Sci-Fi,Cartoon
+
+Fantasy:
+Supernatural-ActAd,Horror,Fantasy,Mystery,Drama
+Reign-Fantasy,Romance
+The Originals-Horror,Fantasy
+Grimm-Drama,Fantasy
+True Blood-Horror,Fantasy,Drama
+WareHouse 13-Sci-Fi,Fantasy
+
+Horror:
+American Horror Story-Horror,Drama
+Ash vs Evil Dead-Horror
+The Twilight Zone-Sci-Fi,Mystery,Fantasy
+
+Mystery:
+Sherlock-Mystery,Drama
+True Detective-Drama,Mystery
+Inspector Lewis-Drama,Mystery
+Midsomer Murders-Drama,Mystery
+Endeavour-Drama,Mystery
+Dexter-Drama,Mystery
+Psych-Comedy,Mystery,Drama
+
+Romance:
+Bones-Comedy,Drama,Romance
+Grey's Anatomy-Drama,Romance
+How I Met Your Mother-Comedy,Romance
+Downton Abbey-Drama,Romane
+Outlander-Drama,Romance,Sci-Fi
+Teen Wolf-Romance,Comedy,ActAd
+The BlackList-Drama,Mystery,Romance
+The Last Kingdom-ActAd,Romance
